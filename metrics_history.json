@@ -1,0 +1,9 @@
+{
+    "model": "YOLOv8m",
+    "epochs_completed": 42,
+    "metrics": {
+        "mAP50": 0.092,
+        "recall": 0.168,
+        "precision": 0.124
+    }
+}
