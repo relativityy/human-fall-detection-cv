@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/721b0192-7bbb-4587-a779-b3f759b9589c
-
 # Разработка системы компьютерного зрения для детекции падения людей (Human Fall Detection)
 
 Проект выполнен в рамках учебной практики. Включает в себя обучение нейросети YOLOv8m на специализированном датасете, оценку метрик и сравнительный анализ скорости работы различных архитектур на серверных CPU-мощностях Google Colab.
@@ -32,7 +30,6 @@ https://github.com/user-attachments/assets/721b0192-7bbb-4587-a779-b3f759b9589c
 * `metrics_history.json` — сырые метрики последней эпохи обучения.
   
 
-https://github.com/user-attachments/assets/4dc70623-e158-4e82-8311-b988e411849d
 
 
 
