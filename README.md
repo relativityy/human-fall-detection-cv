@@ -30,8 +30,10 @@ https://github.com/user-attachments/assets/721b0192-7bbb-4587-a779-b3f759b9589c
 * `fall_demo_output.mp4` — демонстрационное видео с наложенной аналитической рамкой и триггером `!!! FALL DETECTED !!!` при фиксации падения.
 * `evaluation_report.xlsx` — структурированный Excel-отчет с бенчмарками.
 * `metrics_history.json` — сырые метрики последней эпохи обучения.
-* 
+  
 
-https://github.com/user-attachments/assets/ac45f88c-6d41-4f37-b1fb-2c28c06ddfed
+https://github.com/user-attachments/assets/4dc70623-e158-4e82-8311-b988e411849d
+
+
 
 
